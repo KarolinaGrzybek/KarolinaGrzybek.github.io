@@ -72,8 +72,8 @@ document.addEventListener('DOMContentLoaded', () => {
             rangeInput.addEventListener('input', (e) => {
                 const value = e.target.value;
                 
-                // Ustawienie szerokości górnego obrazka (Final AI)
-                imgAfter.style.width = `${value}%`;
+                // Używamy clip-path, aby obraz 'after' poprawnie współpracował z object-fit: contain
+                imgAfter.style.clipPath = `polygon(0 0, ${value}% 0, ${value}% 100%, 0 100%)`;
                 
                 // Ustawienie pozycji pionowej kreski z uchwytem
                 handle.style.left = `${value}%`;
