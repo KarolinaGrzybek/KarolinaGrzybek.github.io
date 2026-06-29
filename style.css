@@ -1369,6 +1369,40 @@ body::before {
     .section-divider {
         padding: 1.5rem 1rem 0;
     }
+    
+    /* Optymalizacja wydajności na telefonach (ZWALCZANIE LAGÓW I KLATKOWANIA) */
+    * {
+        /* Wyłączenie masek, które zabijają wydajność na mobile */
+        -webkit-mask-image: none !important;
+        mask-image: none !important;
+        /* Wyłączenie ciężkich filtrów na obrazach */
+        filter: none !important;
+    }
+    
+    .header, .navbar, .about-floating-stats, .glass-card, .modal {
+        backdrop-filter: none !important;
+        -webkit-backdrop-filter: none !important;
+    }
+    
+    .glass-card, .btn-primary, .badge-status {
+        /* Duże, miękkie cienie drastycznie spowalniają odświeżanie "kafelków" ekranu na telefonie */
+        box-shadow: none !important;
+    }
+    
+    .glass-card {
+        border: 1px solid rgba(0,0,0,0.1) !important;
+        background: #ffffff !important;
+    }
+    
+    .navbar {
+        background: rgba(255, 255, 255, 1);
+    }
+    
+    .pulse-icon {
+        /* Wyłączenie stałej animacji cienia, która wymusza przerysowywanie ekranu */
+        animation: none !important;
+        box-shadow: none !important;
+    }
 }
 
 @media (max-width: 480px) {
