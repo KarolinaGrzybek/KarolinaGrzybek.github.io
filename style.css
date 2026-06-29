@@ -1257,13 +1257,25 @@ body::before {
 }
 
 /* =============================================
-   MEDIA QUERIES
+   MEDIA QUERIES (Responsive)
    ============================================= */
+.menu-toggle {
+    display: none;
+    font-size: 2.5rem;
+    cursor: pointer;
+    color: var(--color-text-main);
+}
+.mobile-only-btn {
+    display: none;
+}
+
 @media (max-width: 1024px) {
     .hero-container {
         grid-template-columns: 1fr;
         gap: 3rem;
         text-align: center;
+        display: flex;
+        flex-direction: column-reverse;
     }
     .badge-ai-bi, .hero-description {
         margin-left: auto;
@@ -1275,12 +1287,13 @@ body::before {
     .hero-visual {
         order: -1;
     }
-    .about-container, .contact-container {
+    .about-container, .contact-content {
         grid-template-columns: 1fr;
     }
+    .projects-grid,
     .projects-grid-bi,
     .projects-grid-ai {
-        grid-template-columns: 1fr;
+        grid-template-columns: repeat(2, 1fr);
     }
 }
 
@@ -1293,10 +1306,10 @@ body::before {
         top: 100%;
         left: 0;
         width: 100%;
-        background: rgba(10, 14, 23, 0.95);
+        background: rgba(255, 255, 255, 0.98);
         backdrop-filter: blur(12px);
         -webkit-backdrop-filter: blur(12px);
-        border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+        border-bottom: 1px solid rgba(0, 0, 0, 0.05);
         flex-direction: column;
         padding: 2rem;
         gap: 1.5rem;
@@ -1313,16 +1326,48 @@ body::before {
     .nav-cta {
         display: none;
     }
+    .mobile-only-btn {
+        display: inline-flex;
+        width: 100%;
+        margin-top: 1rem;
+    }
     .hero-title {
         font-size: 2.5rem;
+    }
+    .hero-bg-text {
+        font-size: 6rem;
+        top: 25%;
+    }
+    .projects-grid,
+    .projects-grid-bi,
+    .projects-grid-ai {
+        grid-template-columns: 1fr;
+    }
+    .skills-grid {
+        grid-template-columns: repeat(2, 1fr);
     }
     .modal-grid {
         grid-template-columns: 1fr;
     }
     .modal-content {
         padding: 1.5rem;
+        max-width: 95%;
+        max-height: 90vh;
+        overflow-y: auto;
     }
     .section-divider {
         padding: 1.5rem 1rem 0;
+    }
+}
+
+@media (max-width: 480px) {
+    .hero-title {
+        font-size: 2rem;
+    }
+    .section-title {
+        font-size: 1.8rem;
+    }
+    .hero-bg-text {
+        font-size: 4rem;
     }
 }
