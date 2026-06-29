@@ -1271,21 +1271,29 @@ body::before {
 
 @media (max-width: 1024px) {
     .hero-container {
-        grid-template-columns: 1fr;
-        gap: 3rem;
-        text-align: center;
         display: flex;
-        flex-direction: column-reverse;
+        flex-direction: column;
+        gap: 2rem;
+        text-align: center;
     }
-    .badge-ai-bi, .hero-description {
+    .hero-left, .hero-right {
+        align-items: center;
+        text-align: center;
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .hero-center {
+        order: -1; /* Zdjęcie na samej górze (opcjonalnie, lub usunąć żeby było pod imieniem) */
+    }
+    .badge-status {
+        margin-bottom: 1rem;
+    }
+    .hero-description {
         margin-left: auto;
         margin-right: auto;
     }
     .hero-actions {
         justify-content: center;
-    }
-    .hero-visual {
-        order: -1;
     }
     .about-container, .contact-content {
         grid-template-columns: 1fr;
