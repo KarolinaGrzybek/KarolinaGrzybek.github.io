@@ -1,0 +1,31 @@
+Zadanie 3: Postprodukcja, Outpainting i Precyzja (Naprawa "Halucynacji")
+Brief dla kandydata:
+W załączniku znajdziesz wygenerowane przez AI zdjęcie modelki trzymającej skórzaną torebkę (nasz bestseller). Niestety, jak to często bywa, sztuczna inteligencja popełniła kilka błędów. Twój cel to naprawienie obrazu tak, aby nadawał się do druku na okładce magazynu, bez ponownego generowania całości. Musisz:
+
+Naprawić dłonie modelki (obecnie ma 6 palców).
+
+Usunąć z tła rozmazanego, nienaturalnego przechodnia, nie psując faktury ceglanego muru za nim.
+
+Poszerzyć kadr (outpainting) z formatu pionowego (4:5) do poziomego baneru (16:9), domyślając architekturę ulicy.
+
+Materiały wejściowe:
+
+Plik JPG "flawed_ai_image.jpg" (Wymaga wcześniejszego przygotowania przez zespół rekrutacyjny – wygenerujcie obraz z celowymi błędami anatomicznymi w dłoniach i "śmieciami" w tle).
+
+Wymagany format dostarczenia:
+
+Gotowy obraz w formacie JPG (16:9).
+
+Krótki opis workflow (jakich narzędzi użyto do inpaintingu/outpaintingu – np. Generative Fill w PS, inpainting w Stable Diffusion).
+
+(Opcjonalnie) Screeny "przed" i "po" z naniesionymi maskami, by pokazać proces pracy.
+
+Szacowany czas na wykonanie: 45-60 minut.
+
+Kryteria oceny dla HR i Art Directora:
+
+[0-5 pkt] Naprawa anatomii: Czy dłonie wyglądają w 100% naturalnie, czy widać ślady stempla/nieudolnego inpaintingu?
+
+[0-5 pkt] Precyzja czyszczenia (Retusz): Czy mur w miejscu usuniętego przechodnia ma logiczną strukturę i perspektywę?
+
+[0-5 pkt] Jakość Outpaintingu: Czy dorobione tło płynnie łączy się z oryginalnym obrazem? Czy nie ma widocznego "szwu", spadku rozdzielczości lub drastycznej zmiany naświetlenia na krawędziach poszerzonego kadru?

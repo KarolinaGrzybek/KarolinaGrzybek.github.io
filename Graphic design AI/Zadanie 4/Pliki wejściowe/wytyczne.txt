@@ -1,0 +1,20 @@
+1. Prompt bazowy dla klatki/wideo (Styl: Fotorealistyczny)
+Skopiuj poniższy prompt i użyj go w wybranym narzędziu. Wymagamy utrzymania absolutnie fotorealistycznego, kinowego stylu.
+
+Prompt do skopiowania:
+A highly photorealistic, cinematic vertical shot of a beautiful young woman walking confidently down a sunny, narrow cobblestone street in a picturesque Italian coastal town. She is wearing a light, flowing white linen summer dress that catches the breeze. Warm golden hour sunlight, soft lens flare, deep depth of field, shot on 35mm lens, highly detailed facial features, natural skin texture, 8k resolution, realistic lighting and shadows, fashion editorial style --ar 9:16 --style raw --v 6.0
+
+2. Wytyczne do generacji Audio (Podkład muzyczny)
+Wideo na TikToku nie istnieje bez dźwięku. Wygeneruj pasujący podkład muzyczny (np. korzystając z narzędzi takich jak Suno lub Udio), opierając się na poniższym briefie dźwiękowym. Zmontuj wygenerowane wideo z tym dźwiękiem.
+
+Prompt muzyczny do skopiowania:
+Upbeat modern summer pop track, energetic acoustic guitar riff, subtle deep electronic bass, warm and sunny holiday vibe, chillout rhythm, instrumental only, no vocals, high quality, commercial fashion reel style
+
+3. Logo i typografia (Nakładka)
+Na wygenerowane i udźwiękowione wideo nałóż prosty napis (w dowolnym programie do montażu, np. Premiere Pro, CapCut), aby zasymulować gotowy produkt reklamowy:
+
+Tekst: "SUMMER COLLECTION '26"
+
+Font: Minimalistyczny, bezszeryfowy (np. Montserrat lub Helvetica)
+
+Pozycja: Dolna część ekranu, wyśrodkowane, biały kolor, delikatny cień pod tekstem (drop shadow) dla czytelności.

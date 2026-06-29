@@ -1,0 +1,21 @@
+KAMPANIA: SKANDYNAWSKA JESIEŃ
+
+Wymagane formaty wyjściowe:
+
+Baner Hero (Poziom): 1920 x 1080 px (16:9)
+
+Post Social Media (Kwadrat): 1080 x 1080 px (1:1)
+
+Stories/Reels (Pion): 1080 x 1920 px (9:16)
+
+Ścisła paleta kolorystyczna kampanii (użyj jako bazy dla oświetlenia i detali):
+
+Ciepły beż / Oat: #E6DACA
+
+Szałwiowa zieleń / Sage: #9CAE96
+
+Zgaszona musztarda / Mustard: #D4AF37
+
+Ciemne drewno / Walnut: #4A3B32
+
+Oświetlenie: Golden hour (złota godzina), jesienne słońce, miękkie światło wpadające przez duże okna, długie cienie.

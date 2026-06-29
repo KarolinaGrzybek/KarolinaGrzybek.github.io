@@ -1,0 +1,27 @@
+Zadanie 4: Wideo Generatywne i Dynamika (TikTok / IG Reels)
+Brief dla kandydata:
+Statyczne obrazy to za mało, aby zatrzymać uwagę na TikToku. Twoim zadaniem jest stworzenie krótkiego, przyciągającego wzrok wideo (około 5-8 sekund) promującego naszą letnią kolekcję. Musisz wygenerować płynny, fotorealistyczny klip wideo zachowujący pionowy format. Zależy nam na naturalnym ruchu (np. powiewający materiał, ruch wody, subtelny ruch kamery, spacerująca modelka) bez drastycznych zniekształceń (tzw. morfingu) obiektów. Wideo musi wyglądać jak profesjonalne ujęcie z kamery (cinematic, photorealistic). Dodatkowym atutem będzie wygenerowanie spójnego, energetycznego podkładu muzycznego lub dźwiękowego dopasowanego do klimatu wideo.
+
+Materiały wejściowe:
+
+Krótki skrypt/mood: "Kobieta idąca słoneczną, brukowaną uliczką we włoskim miasteczku. Ubrana w zwiewną, letnią sukienkę. Atmosfera wakacji, wolności, ciepłe światło. Ujęcie w zwolnionym tempie (slow-motion)."
+
+(Kandydat może wygenerować klatkę bazową w Midjourney i ożywić ją w innym narzędziu lub wygenerować wideo bezpośrednio za pomocą promptu).
+
+Wymagany format dostarczenia:
+
+Gotowy plik wideo w formacie MP4 (proporcje 9:16, min. 1080x1920 px).
+
+Opis zastosowanego workflow: jakich narzędzi użyto do generowania wideo (np. Luma Dream Machine, Runway Gen-3, Pika, Kling), jakich do ewentualnego dźwięku (np. Suno, Udio) oraz jakich do upscalingu.
+
+Lista promptów oraz klatki referencyjne (jeśli dotyczy).
+
+Szacowany czas na wykonanie: 45-60 minut.
+
+Kryteria oceny dla HR i Art Directora:
+
+[0-5 pkt] Fotorealizm i jakość obrazu: Czy wideo przypomina prawdziwe ujęcie z kamery reklamowej, czy wygląda jak tania, rozmyta animacja 3D?
+
+[0-5 pkt] Płynność i logika ruchu (Brak halucynacji): Jak dobrze AI poradziło sobie z anatomią i fizyką w ruchu? Czy twarz i kończyny pozostają spójne, czy tło nie "pływa" w nienaturalny sposób?
+
+[0-5 pkt] Znajomość formatu i narzędzi: Czy kompozycja idealnie pasuje do pionowego formatu TikToka? Czy kandydat dobrał optymalne narzędzia do tego konkretnego typu ujęcia (np. narzędzia do audio, upscalery wideo)?

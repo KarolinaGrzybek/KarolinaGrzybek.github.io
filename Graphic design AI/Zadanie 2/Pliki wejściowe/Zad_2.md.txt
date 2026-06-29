@@ -1,0 +1,95 @@
+
+Rozmowa z Gemini
+**Rola:** Działasz jako Senior Art Director oraz Ekspert ds. Rekrutacji w dużej firmie e-commerce. Posiadasz głęboką wiedzę na temat generatywnej sztucznej inteligencji w grafice komercyjnej.
+
+**Zadanie:** Zaprojektuj kompletny zestaw zadań rekrutacyjnych (od 3 do 4 zadań) dla kandydata na stanowisko "AI Graphic Designer".
+
+**Kontekst i wymagania:**
+
+Firma działa w branży e-commerce. Szukamy osoby, która potrafi kompleksowo zarządzać procesem tworzenia obrazu za pomocą AI, tworząc wysokiej jakości materiały wizualne (ze szczególnym naciskiem na styl fotorealistyczny). Zadania muszą być na tyle zróżnicowane, aby przetestować szeroki wachlarz umiejętności. Kandydat może korzystać z dowolnych narzędzi (np. Midjourney, Stable Diffusion, Photoshop Generative Fill itp.), ale musi uzasadnić swój wybór.
+
+**Zakres testowanych umiejętności (uwzględnij to w zadaniach):**
+
+1. **Fotorealizm i Packshoty:** Zdolność do wygenerowania wysoce fotorealistycznego zdjęcia lifestylowego, w które można naturalnie wkomponować fizyczny produkt (bez zniekształceń proporcji, zachowując spójność światła i cieni).
+
+2. **Spójność stylu (Style Consistency):** Umiejętność wygenerowania serii grafik promocyjnych na banery internetowe, które wyglądają, jakby pochodziły z jednej kampanii i zostały stworzone przez jednego autora, zachowując spójną paletę barw i oświetlenie.
+
+3. **Postprodukcja i precyzja:** Praca z inpaintingiem/outpaintingiem lub tradycyjnym retuszem w celu usunięcia typowych "halucynacji" AI (np. naprawa nienaturalnych detali, poprawa błędów typograficznych, podmiana tła bez naruszania głównego obiektu).
+
+**Format wyjściowy, który musisz mi dostarczyć:**
+
+Dla każdego zadania wygeneruj szczegółowy blok zawierający:
+
+* **Tytuł zadania**
+
+* **Brief dla kandydata:** (Zwięzły, jasny opis sytuacji biznesowej i tego, co dokładnie ma zostać wygenerowane i dostarczone).
+
+* **Materiały wejściowe:** (Wymyśl, co "otrzymuje" kandydat na start, np. "zdjęcie butelki na białym tle", "wytyczne kolorystyczne").
+
+* **Wymagany format dostarczenia:** (Co kandydat ma odesłać, np. pliki robocze, wygenerowane obrazy, pełna historia użytych promptów i opis workflow).
+
+* **Szacowany czas na wykonanie:** (Zadbaj, aby łączny czas na wszystkie zadania nie zajął kandydatowi więcej niż 3-4 godziny).
+
+* **Kryteria oceny dla HR:** (Krótka lista kontrolna z punktacją, na co rekruter i zespół projektowy mają zwrócić uwagę podczas weryfikacji nadesłanych prac).
+
+Cześć! Z przyjemnością pomogę Ci przygotować ten proces. Jako Senior Art Director doskonale wiem, że w branży e-commerce "ładny obrazek" to za mało. Potrzebujemy kogoś, kto rozumie kompozycję, światło i potrafi zapanować nad losowością AI, dostarczając materiały gotowe do wdrożenia komercyjnego.
+
+Oto kompletny, zbalansowany zestaw zadań rekrutacyjnych, który przetestuje warsztat kandydata, jego myślenie projektowe oraz biegłość techniczną. Całość została zaprojektowana tak, aby zmieścić się w maksymalnie 3-4 godzinach.
+
+Zadanie 1: Fotorealizm i Integracja Produktu (Packshot)
+Brief dla kandydata:
+Tworzymy kampanię dla nowej linii luksusowych kosmetyków do pielęgnacji twarzy na sezon letni. Twoim zadaniem jest wygenerowanie wysoce fotorealistycznego tła lifestylowego (np. marmurowy blat, woda, tropikalne cienie, subtelne słońce) i wkomponowanie w nie dostarczonego zdjęcia fizycznego produktu. Oczekujemy absolutnego realizmu – produkt musi wyglądać tak, jakby fizycznie znajdował się na planie zdjęciowym. Zwróć szczególną uwagę na kierunek światła, odbicia i naturalność rzucanego cienia.
+
+Materiały wejściowe:
+
+Plik PNG wysokiej rozdzielczości ze zdjęciem szklanego słoiczka kremu na przezroczystym tle (flat lighting, brak ostrych cieni).
+
+Krótki moodboard w postaci 3 referencyjnych zdjęć w klimacie "Summer Glow" (jasne, ciepłe barwy, ostre cienie słoneczne).
+
+Wymagany format dostarczenia:
+
+Gotowy obraz w formacie JPG (min. 2000x2000 px).
+
+Plik źródłowy (np. PSD z zachowanymi warstwami maskowania, cieni, refleksów świetlnych).
+
+Dokument tekstowy/PDF zawierający użyte prompty, opis wybranego narzędzia (np. Midjourney v6 + Photoshop) oraz krótkie uzasadnienie tego wyboru.
+
+Szacowany czas na wykonanie: 60-75 minut.
+
+Kryteria oceny dla HR i Art Directora:
+
+[0-5 pkt] Fotorealizm tła: Czy wygenerowane tło wygląda jak prawdziwe zdjęcie (brak plastikowego efektu, odpowiednia głębia ostrości, ziarno/szum)?
+
+[0-5 pkt] Integracja i fizyka: Czy perspektywa produktu zgadza się z tłem? Czy wygenerowane cienie i odbicia w szkle są logiczne względem źródła światła na wygenerowanym obrazie?
+
+[0-5 pkt] Dbałość o detale: Czy krawędzie wyciętego produktu zostały odpowiednio wtopione w nowe tło (brak widocznej, "ostrej" obwódki)?
+
+Zadanie 2: Spójność Stylu (Wielokanałowa Kampania)
+Brief dla kandydata:
+Nasz sklep uruchamia nową wyprzedaż "Skandynawska Jesień". Potrzebujemy serii 3 grafik, które posłużą jako tła pod banery reklamowe na różnych platformach. Każda z grafik musi przedstawiać inne pomieszczenie (1. Salon, 2. Sypialnia, 3. Jadalnia). Kluczowe jest, aby obrazy wyglądały, jakby pochodziły z jednej sesji zdjęciowej zrealizowanej przez tego samego fotografa tego samego dnia. Musisz zachować identyczną paletę barw (ciepłe beże, szałwiowa zieleń, musztardowe akcenty) oraz identyczny rodzaj światła (późne popołudnie, miękkie światło wpadające przez duże okna).
+
+Materiały wejściowe:
+
+Paleta kolorów (kody HEX lub próbnik).
+
+Wytyczne formatów: 1x poziom (16:9), 1x kwadrat (1:1), 1x pion (9:16).
+
+Brak zdjęć referencyjnych – kandydat musi sam zdefiniować styl na podstawie opisu.
+
+Wymagany format dostarczenia:
+
+3 pliki JPG w wymaganych proporcjach.
+
+Zapisany "Seed" (jeśli użyto Midjourney/Stable Diffusion) oraz pełna historia promptów.
+
+Opis zastosowanej techniki (np. Style Reference, Image Prompting, trenowanie LoRA, ControlNet) gwarantującej spójność.
+
+Szacowany czas na wykonanie: 60-75 minut.
+
+Kryteria oceny dla HR i Art Directora:
+
+[0-5 pkt] Spójność kampanii: Czy kładąc te 3 grafiki obok siebie, czuć, że to jedna i ta sama kampania?
+
+[0-5 pkt] Zgodność z wytycznymi: Czy kolory i rodzaj oświetlenia odpowiadają briefowi? Czy zachowano poprawne proporcje obrazów?
+
+[0-5 pkt] Warsztat promptowania: Czy kandydat użył zaawansowanych technik utrzymania stylu (np. parametry --sref w Midjourney, odpowiednie modele w SD), czy tylko liczył na łut szczęścia i podstawowe prompty?

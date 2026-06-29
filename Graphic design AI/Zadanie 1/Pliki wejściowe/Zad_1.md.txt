@@ -1,0 +1,27 @@
+Zadanie 1: Fotorealizm i Integracja Produktu (Packshot)
+Brief dla kandydata:
+Tworzymy kampanię dla nowej linii luksusowych kosmetyków do pielęgnacji twarzy na sezon letni. Twoim zadaniem jest wygenerowanie wysoce fotorealistycznego tła lifestylowego (np. marmurowy blat, woda, tropikalne cienie, subtelne słońce) i wkomponowanie w nie dostarczonego zdjęcia fizycznego produktu. Oczekujemy absolutnego realizmu – produkt musi wyglądać tak, jakby fizycznie znajdował się na planie zdjęciowym. Zwróć szczególną uwagę na kierunek światła, odbicia i naturalność rzucanego cienia.
+
+Materiały wejściowe:
+
+Plik PNG wysokiej rozdzielczości ze zdjęciem szklanego słoiczka kremu na przezroczystym tle (flat lighting, brak ostrych cieni).
+
+Krótki moodboard w postaci 3 referencyjnych zdjęć w klimacie "Summer Glow" (jasne, ciepłe barwy, ostre cienie słoneczne).
+
+Wymagany format dostarczenia:
+
+Gotowy obraz w formacie JPG (min. 2000x2000 px).
+
+Plik źródłowy (np. PSD z zachowanymi warstwami maskowania, cieni, refleksów świetlnych).
+
+Dokument tekstowy/PDF zawierający użyte prompty, opis wybranego narzędzia (np. Midjourney v6 + Photoshop) oraz krótkie uzasadnienie tego wyboru.
+
+Szacowany czas na wykonanie: 60-75 minut.
+
+Kryteria oceny dla HR i Art Directora:
+
+[0-5 pkt] Fotorealizm tła: Czy wygenerowane tło wygląda jak prawdziwe zdjęcie (brak plastikowego efektu, odpowiednia głębia ostrości, ziarno/szum)?
+
+[0-5 pkt] Integracja i fizyka: Czy perspektywa produktu zgadza się z tłem? Czy wygenerowane cienie i odbicia w szkle są logiczne względem źródła światła na wygenerowanym obrazie?
+
+[0-5 pkt] Dbałość o detale: Czy krawędzie wyciętego produktu zostały odpowiednio wtopione w nowe tło (brak widocznej, "ostrej" obwódki)?
